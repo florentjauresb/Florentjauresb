@@ -18,7 +18,7 @@
 mj = {
     "nom"       : "Bolou Florent Jaurès",
     "formation" : "Licence 3 — Finance Digitale @ EMSP Abidjan",
-    "titre"     : "Vainqueur JA Social Equity 2026 🏆",
+    "titre"     : "Vainqueur JA Social Equity 2026 ",
     "passion"   : ["FinTech", "Trading", "Vibe Coding", "Data"],
     "localité"  : "Abidjan, Côte dIvoire 🇨🇮",
     "status"    : "En train de builder quelque chose de grand "
@@ -65,26 +65,12 @@ mj = {
 
 ##  Trading & Finance
 
--  Participant actif au **concours Sika Finance** (capital virtuel 20M FCFA)
+-  Participant actif au **concours Sika Finance**
 -  Stratégie BRVM basée sur analyse fondamentale + momentum technique
--  Spécialisé sur les valeurs BRVM : SICABLE, SETAO, CORIS BANK
 
----
-
-##  GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=florentjauresb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a14&title_color=22d3ee&icon_color=60a5fa&text_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florentjauresb&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a14&title_color=22d3ee&text_color=ffffff)
-
-</div>
-
----
-
-<div align="center">
-
-*"Builder dabord, rêveur ensuite."* 🇨🇮
+"Builder dabord, rêveur ensuite."
 
 </div>
