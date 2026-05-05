@@ -1,4 +1,4 @@
-# Bolou Florent Jaurès — MJ 
+# Bolou Florent Jaurès 
 
 <div align="center">
 
@@ -14,16 +14,12 @@
 
 ##  À propos de moi
 
-```python
-mj = {
-    "nom"       : "Bolou Florent Jaurès",
-    "formation" : "Licence 3 — Finance Digitale @ EMSP Abidjan",
-    "titre"     : "Vainqueur JA Social Equity 2026 ",
-    "passion"   : ["FinTech", "Trading", "Vibe Coding", "Data"],
-    "localité"  : "Abidjan, Côte dIvoire 🇨🇮",
-    "status"    : "En train de builder quelque chose de grand "
-}
-```
+Étudiant en **Licence 3 Finance Digitale** à l'EMSP Abidjan et vainqueur du **JA Social Equity 2026**, je combine expertise financière et compétences techniques pour créer des outils innovants.
+
+*    **Localisation :** Abidjan, Côte d'Ivoire
+*    **Spécialité :** FinTech, Data Analysis & Vibe Coding
+*    **Projet actuel :** Builder une solution e-commerce locale (Sanli Shop)
+*    **Objectif :** Utiliser la donnée pour optimiser les décisions financières
 
 ---
 
