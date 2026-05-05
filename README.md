@@ -1,4 +1,4 @@
-# Bolou Florent Jaurès — MJ 🚀
+# Bolou Florent Jaurès — MJ 
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 À propos de moi
+##  À propos de moi
 
 ```python
 mj = {
@@ -21,13 +21,13 @@ mj = {
     "titre"     : "Vainqueur JA Social Equity 2026 🏆",
     "passion"   : ["FinTech", "Trading", "Vibe Coding", "Data"],
     "localité"  : "Abidjan, Côte dIvoire 🇨🇮",
-    "status"    : "En train de builder quelque chose de grand 🔥"
+    "status"    : "En train de builder quelque chose de grand "
 }
 ```
 
 ---
 
-## 🛠️ Stack Technique
+##  Stack Technique
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,23 +39,23 @@ mj = {
 
 ---
 
-## 🚀 Projets Phares
+##  Projets Phares
 
-### 🛍️ Sanli Shop — Marketplace Artisanat Ivoirien
+###  Sanli Shop — Marketplace Artisanat Ivoirien
 > Marketplace connectant artisans ivoiriens, consommateurs et livreurs locaux.
 - Système de commandes en temps réel avec OTP de livraison
 - Missions de livraison géolocalisées pour livreurs indépendants
 - KYC intégré pour vérification des artisans et livreurs
 - **Stack :** Base44, React, JavaScript, Supabase
 
-### 📊 Sanli Flow — Cockpit de Pilotage Intelligent
+###  Sanli Flow — Cockpit de Pilotage Intelligent
 > Tableau de bord IA pour piloter Sanli Shop en temps réel.
 - KPIs en temps réel : ventes, commandes, livraisons, artisans
 - IA intégrée générant des recommandations (promotions, soldes, alertes)
 - Synchronisation automatique des données depuis Sanli Shop
 - **Stack :** Base44, React, JavaScript, IA/LLM
 
-### 💼 [Portfolio Personnel](https://florentjauresb.github.io/florentejb)
+###  [Portfolio Personnel](https://florentjauresb.github.io/florentejb)
 > Site portfolio interactif avec dashboard admin intégré.
 - Design dark mode avec animations CSS avancées
 - Dashboard admin pour gestion dynamique du contenu
@@ -63,15 +63,15 @@ mj = {
 
 ---
 
-## 📈 Trading & Finance
+##  Trading & Finance
 
-- 🏆 Participant actif au **concours Sika Finance** (capital virtuel 20M FCFA)
-- 📊 Stratégie BRVM basée sur analyse fondamentale + momentum technique
-- 💡 Spécialisé sur les valeurs BRVM : SICABLE, SETAO, CORIS BANK
+-  Participant actif au **concours Sika Finance** (capital virtuel 20M FCFA)
+-  Stratégie BRVM basée sur analyse fondamentale + momentum technique
+-  Spécialisé sur les valeurs BRVM : SICABLE, SETAO, CORIS BANK
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
