@@ -5,7 +5,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bolou%20Florent%20Jaur%C3%A8s&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Finance%20Digitale%20%7C%20FinTech%20Builder%20%7C%20Vibe%20Coder&descAlignY=55)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/florent-jaurès-bolou-356b9536b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-050a14?style=for-the-badge&logo=github&logoColor=cyan)](https://florentjauresb.github.io/florentejb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-050a14?style=for-the-badge&logo=github&logoColor=cyan)](https://florentjauresb.github.io/florentjb)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florentjauresb@gmail.com)
 
 </div>
