@@ -51,7 +51,7 @@
 - Synchronisation automatique des données depuis Sanli Shop
 - **Stack :** Base44, React, JavaScript, IA/LLM
 
-###  [Portfolio Personnel](https://florentjauresb.github.io/florentejb)
+###  [Portfolio Personnel](https://florentjauresb.github.io/florentjb)
 > Site portfolio interactif avec dashboard admin intégré.
 - Design dark mode avec animations CSS avancées
 - Dashboard admin pour gestion dynamique du contenu
